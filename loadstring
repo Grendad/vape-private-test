@@ -1,2 +1,0 @@
-shared.Vapeprivate = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/uhbsahu9fashuifa/vape-private-test/main/vapeprivatetestingcode.lua", true))()
