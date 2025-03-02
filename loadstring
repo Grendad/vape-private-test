@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://github.com/Grendad/vape-private-test/blob/main/whitelists/whitelist1.json"))()
+
 shared.Vapeprivate = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Grendad/vape-private-test/main/NewMainScript.lua", true))()
