@@ -2,7 +2,7 @@
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local yes = Players.LocalPlayer.Name
-local ChatTag = https://github.com/Grendad/vape-private-test/blob/main/CustomModules/Owner%20script
+local ChatTag = loadstring("https://raw.githubusercontent.com/Grendad/vape-private-test/refs/heads/main/whitelists/whitelist1.json")()
 
 
 
