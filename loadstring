@@ -1,2 +1,2 @@
 shared.Vapeprivate = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/uhbsahu9fashuifa/vape-private-test/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grendad/vape-private-test/main/NewMainScript.lua", true))()
